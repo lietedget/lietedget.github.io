@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lietedget.github.io/sitemap.html.gz
+Sitemap: https://lietedget.github.io/app/sitemap.html.gz
+Sitemap: https://lietedget.github.io/assets/sitemap.html.gz
+Sitemap: https://lietedget.github.io/css/sitemap.html.gz
+Sitemap: https://lietedget.github.io/includes/sitemap.html.gz
+Sitemap: https://lietedget.github.io/item/sitemap.html.gz
+Sitemap: https://lietedget.github.io/src/sitemap.html.gz
